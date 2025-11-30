@@ -45,7 +45,8 @@ http://localhost:5173
 
 ## Структура проєкту
 
-```my-react-app/
+```
+my-react-app/
 ├── src/
 │ ├── components/
 │ │ ├── ToastNotification.jsx
